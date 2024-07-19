@@ -18,7 +18,8 @@
 </div>
 
 ## 컨텐츠 설명
-- **Hackathon**: Spring Boot 4 기반의 web service 구현 파일
-- **Data**: 딥러닝 모델 구현에 사용된 데이터들
-- **Others**: 모델 학습에 필요한 데이터 전처리 및 모델 구현 과정 코드
-- 시연 영상 및 사진은 [여기](https://drive.google.com/drive/folders/1gdTeV5sj2uXyZp2jf8kIb2Z5XcY7Ba5C?usp=drive_link)를 클릭해주세요!
+- **Data**: 데이터 분석에 활용된 데이터
+- **Output**: 데이터 분석 결과로 도출된 결과물
+- **빅데이터분석(가)_텀프로젝트.ipynb**: 메인 노트북 파일
+
+
